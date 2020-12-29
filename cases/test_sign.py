@@ -12,3 +12,7 @@ def test_03():
 
 def test_04():
     assert 1 == 1
+
+
+def test_05():
+    assert 1 == 2
